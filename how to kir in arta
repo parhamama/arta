@@ -1,0 +1,3 @@
+A = "kir to arta"
+print(A)
+print(A.replace("arta", "arvinzm"))
